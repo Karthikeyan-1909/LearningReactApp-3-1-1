@@ -1,3 +1,9 @@
+# About this Project
+
+This is a basic project built to learn the basics of React. I applied the basic concepts of React that I learned during the previous section by building [this project](https://github.com/Karthikeyan-1909/LearningReactApp-3). The concepts include setting up a React project using Vite.js and using useState React Hook to manage the state of a component. This project contains a Birthday Remainder application built with React.
+
+I built this project by learning React from @john-smilga in his Udemy course [React 18 Tutorial and Projects Course (2023)](https://www.udemy.com/course/react-tutorial-and-projects-course/)
+
 ## Figma URL
 
 [Birthday Buddy](https://www.figma.com/file/e2vsLe9DMnXZIygNHkwGL1/Birthday-buddy?node-id=0%3A1&t=AGNWdO5QQGOoNCfD-1)
